@@ -10,3 +10,4 @@ Custom class project - "Home Security System": Here you can find the code used t
 - Milestone I code is a Home Security System with the Atmega1284 code setup. This system has an LCD user interface where the user gets updated information on the current status of the system, like armed (on), unarmed (off), motion detected, alarm activated/deactivated, etc. This home security system allows for a password to be set-up that controls the units’ armed/disarmed/alarm status with a keypad. When motion is detected (replaced by a keypad button) the alarm system is activated and prompts the user to deactivate with their set password.
 
 ## Raspberry Pi Zero W
+- This code is for the Raspberry Pi Zero W. It turns on a camera and captures continuously.
