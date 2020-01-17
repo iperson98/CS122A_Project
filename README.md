@@ -2,7 +2,7 @@
 Custom class project - "Home Security System": Here you can find the code used to program my Atmega1284 and Raspberry Pi Zero W.
 
 
-# Milestone I & IIAtmega1284
+# Milestone I & II
 
 ## Atmega1284
 - Components used on the Atmega1284 MCU (LCD, LED Matrix, Keypad). This code allows for hardware component functionality with their corresponding programmed logic interacting with the system.
